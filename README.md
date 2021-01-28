@@ -15,6 +15,8 @@ Registration: Please sign up via <[EventBright](https://www.eventbrite.co.uk/e/s
 
 We'll use the 2nd edition of my book, Statistical Rethinking. I'll provide a PDF of the book to enrolled students.
 
+<https://www.taylorfrancis.com/books/statistical-rethinking-richard-mcelreath/10.1201/9781315372495>
+
 # Lectures
 
 The full lecture video playlist is here: <YouTube:[Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)>. Links to individual lectures, slides and videos are in the calendar at the very bottom. 
